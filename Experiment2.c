@@ -1,6 +1,6 @@
 /*
-Name: Noushaba Siddiqui
-UIN:251P1080
+Name: Rifaah Memon
+UIN:251P119
 COMPUTER ENGINEERING D2
 */
 #include<stdio.h>
@@ -21,4 +21,5 @@ sum+=i;
 printf("sum of odd is %d", sum);
 
 return 0;
+
  }
