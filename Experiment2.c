@@ -1,7 +1,7 @@
 /*
 Name: Rifaah Memon
 UIN:251P119
-COMPUTER ENGINEERING D2
+COMPUTER ENGINEERING D3
 */
 #include<stdio.h>
 
@@ -23,3 +23,4 @@ printf("sum of odd is %d", sum);
 return 0;
 
  }
+
