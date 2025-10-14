@@ -1,6 +1,7 @@
 /*
 Name: Rifaah Memon
-UIN: 251P1019          COMPUTER ENGINEERING - D2
+UIN: 251P119         
+COMPUTER ENGINEERING - D3
 */
 
 #include <stdio.h>
@@ -59,3 +60,4 @@ start:
     goto start;
 
 }
+
