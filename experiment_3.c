@@ -1,6 +1,6 @@
 /*
-Name: Noushaba Siddiqui
-UIN: 251P1080          COMPUTER ENGINEERING - D2
+Name: Rifaah Memon
+UIN: 251P1019          COMPUTER ENGINEERING - D2
 */
 
 #include <stdio.h>
@@ -57,4 +57,5 @@ start:
     }
 
     goto start;
+
 }
